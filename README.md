@@ -1,7 +1,6 @@
 #Praktikum 6
+
 #Penjelasan Program
-
-
 1. List kosong dibuat untuk menyimpan data mahasiswa.
 2. Program meminta input nama siswa, nilai tugas, UTS, dan UAS.
 3. Rumus nilai akhir digunakan untuk menghitung total nilai berdasarkan bobot:
